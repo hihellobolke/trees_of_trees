@@ -7,6 +7,6 @@ This method involves the use of Object Identifiers to designate every revision o
 
 In this method every "check-out" of the document basically creates a new "branch/fork" and a new object identifier is associated with the checked out code. Since each "check-out" creates a new "branch" file locking is not required. Each merge also creates a new branch and a new object identifier. The checked-out code based may be visualized as a new child "node" of the parent document node. Multiple parallel checkouts create children who are all siblings. This structure is shown diagrammatically as follows:
 
-![alt tag](https://github.com/hihellobolke/trees_of_trees/blob/master/diag1.png)
+![alt tag](https://raw.github.com/hihellobolke/trees_of_trees/master/diag1.png)
 
 For more information read the pdf!
